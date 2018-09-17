@@ -22,7 +22,11 @@ public class Pair {
     @OneToOne
     private Player player2;
 
-    public Pair(Player player1, Player player2) {
+    @Column
+    private int round;
+
+    public Pair(int round, Player player1, Player player2) {
+        this.round = round;
         this.player1 = player1;
         this.player2 = player2;
     }
