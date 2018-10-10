@@ -1,3 +1,3 @@
 # gameplan
 
-Simple
+Simple project
