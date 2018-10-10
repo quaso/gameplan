@@ -1,3 +1,3 @@
 # gameplan
 
-first draft
+Simple
