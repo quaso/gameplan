@@ -1,3 +1,3 @@
 # gameplan
 
-Simple project
+Simple project to find sport matches partner in tennis doubles.
